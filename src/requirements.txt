@@ -1,0 +1,3 @@
+nicegui>=1.4.0
+Pillow>=10.0.0
+palworld-save-tools @ git+https://github.com/oMaN-Rod/palworld-save-tools.git

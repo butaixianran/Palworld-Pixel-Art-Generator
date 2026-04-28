@@ -1,0 +1,25 @@
+# package
+src/palworld-save-tools/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
