@@ -1,6 +1,6 @@
 # Language
-中文[README.cn.md](README.cn.md)
-日本語[README.jp.md](README.jp.md)
+[中文](README.cn.md)  
+[日本語](README.jp.md)
 
 # Palworld Pixel Art Generator
 Modify Palworld's save file to create a massive pixel art billboard starting from the player's location, displaying any image of your choice within the game.
@@ -24,7 +24,7 @@ Modify Palworld's save file to create a massive pixel art billboard starting fro
 # Installation
 * Supports Steam version only.
 * **Windows:** Download the latest version from the [Releases] page, extract, and run.
-* **Other Platforms:** Refer to the "Run from Source" section.
+* **Other Platforms:** Refer to the "Run from Source Code" section.
 
 # Preparation
 ## Prepare Templates
@@ -57,7 +57,7 @@ On app, input desired cleaning radius. Click the remove button to modify the sav
 
 Alternatively, wait for the structures to decay naturally over time.
 
-## Run from Source
+## Run from Source Code
 ### Download Source Code
 * Requires Git installed:
 ```bash
@@ -70,7 +70,7 @@ git clone https://github.com/butaixianran/Palworld-Pixel-Art-Generator
 * Install a **C++ build environment**. On Windows, use Visual Studio 2022 with the "C++ Desktop Development" workload.
 
 ### Installation
-* Open a terminal in the project's `src` directory.
+* Open a terminal to project's `src` directory.
 * Run: `pip install -r requirements.txt`
 
 ### Execution
